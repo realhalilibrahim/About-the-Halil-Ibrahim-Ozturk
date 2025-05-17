@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Halil Ibrahim Ozturk</h1>
-<h3 align="center">🧠 AI & ML Developer | 🚀 E-commerce Entrepreneur | 💻 Holding 5 Conditional Offers for BSc Hons CS (AI) in the UK</h3>
+<h1 align="center"> I am Halil Ibrahim Ozturk</h1>
+<h3 align="center"> AI & ML Developer | E-commerce Entrepreneur | Holding 5 Conditional Offers for BSc Hons CS (AI) in the UK</h3>
 
 ---
 
