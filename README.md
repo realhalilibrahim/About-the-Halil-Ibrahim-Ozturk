@@ -1,5 +1,5 @@
 <h1 align="center"> I am Halil Ibrahim Ozturk</h1>
-<h3 align="center"> Shortly , Software Developer and Tech Entrepreneur | I’ve received five conditional offers for the Computer Science (Artificial Intelligence) Bachelor’s (Honours) programme in the UK, but I’m currently busy building.</h3>
+<h3 align="center">Software Developer and Tech Entrepreneur | I’ve received five conditional offers for the Computer Science (Artificial Intelligence) Bachelor’s (Honours) programme in the UK, but I’m currently busy building.</h3>
 
 ---
 
