@@ -24,7 +24,9 @@ In 2026, work is underway on a new project. This project is being funded by the 
 ---
 
 ## 🚀 Tech Stack & Tools
-![Antropic]((https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white))
+
+### 🤖 Artificial Intelligence
+![Antropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
