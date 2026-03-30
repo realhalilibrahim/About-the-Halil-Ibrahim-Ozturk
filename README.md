@@ -16,7 +16,8 @@ In 2024, he founded **HI E-COM**, a London-based company specialising in scalabl
 In 2025, he established HI DIGITAL, an agency offering digital automation and AI services.
 
 In 2026, work is underway on a new project. This project is being funded by the previous two and is currently in the development phase.   
-     <p>🌐 Website: (http://www.hi-digitalworld.com),(https://deepcreativelabs.com)</p>
+     <p>🌐 Website: (http://www.hi-digitalworld.com)</p>
+     <p>🌐 Website: (https://deepcreativelabs.com)</p>
      <p>📧 Email: info@hi-digitalworld.com</p>
 
 - Passionate about coding, solving real-world problems, and building impactful digital systems  
