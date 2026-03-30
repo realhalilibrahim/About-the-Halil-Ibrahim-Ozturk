@@ -1,5 +1,5 @@
 <h1 align="center"> I am Halil Ibrahim Ozturk</h1>
-<h3 align="center"> AI & ML Developer | E-commerce Entrepreneur | Holding 5 Conditional Offers for BSc Hons CS (AI) in the UK</h3>
+<h3 align="center"> Shortly , Software Developer and Tech Entrepreneur | I’ve received five conditional offers for the Computer Science (Artificial Intelligence) Bachelor’s (Honours) programme in the UK, but I’m currently busy building.</h3>
 
 ---
 
@@ -9,15 +9,14 @@
 - 🎓 Graduated in 2022 from Topkapı Sur Vocational High School in Mechatronics  
 - 🎓 Earned my associate degree in Electrical and Energy Systems at Marmara University in 2024  
 - 💼 Received **5 conditional offers** to study **BSc (Hons) Computer Science (Artificial Intelligence)** at top UK universities via UCAS:
-   <p>Brunel University London</p>
-   <p>University of Greenwich</p>
-   <p>University of Kent</p>
-   <p>University of Essex</p>
-   <p>University of Leicester</p>
+   <p>Brunel University London</p> , <p>University of Greenwich</p> , <p>University of Kent</p> , <p>University of Essex</p> , <p>University of Leicester</p>
 
-- Founded **HI E-COM AND R&D LTD**, a London-based company focused on scalable, AI-powered e-commerce projects  
-- Launched **HI DIGITAL WORLD**, a training platform where I mentor individuals on using AI tools and mastering e-commerce strategies through hands-on, one-on-one sessions  
-     <p>🌐 Website: (http://www.hi-digitalworld.com)</p>
+In 2024, he founded **HI E-COM**, a London-based company specialising in scalable, AI-powered e-commerce projects.
+
+In 2025, he established HI DIGITAL, an agency offering digital automation and AI services.
+
+In 2026, work is underway on a new project. This project is being funded by the previous two and is currently in the development phase.   
+     <p>🌐 Website: (http://www.hi-digitalworld.com),(https://deepcreativelabs.com)</p>
      <p>📧 Email: info@hi-digitalworld.com</p>
 
 - Passionate about coding, solving real-world problems, and building impactful digital systems  
@@ -25,6 +24,10 @@
 ---
 
 ## 🚀 Tech Stack & Tools
+![Antropic]((https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white))
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 💻 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -37,11 +40,11 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white)
 
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -59,7 +62,7 @@
 
 - 📧 halilibrahimtech@gmail.com  
 - 📧 halil@hi-digitalworld.com  
-- 📍 Based in London, UK  
+- 📍 London-UK , San Francisco-USA.  
 
 ---
 
